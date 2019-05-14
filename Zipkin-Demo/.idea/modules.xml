@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/tjw.zipkin/tjw.zipkin.iml" filepath="$PROJECT_DIR$/tjw.zipkin/tjw.zipkin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tjw.zipkin2/tjw.zipkin2.iml" filepath="$PROJECT_DIR$/tjw.zipkin2/tjw.zipkin2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tjw.zipkin3/tjw.zipkin3.iml" filepath="$PROJECT_DIR$/tjw.zipkin3/tjw.zipkin3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tjw.zipkin4/tjw.zipkin4.iml" filepath="$PROJECT_DIR$/tjw.zipkin4/tjw.zipkin4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zipkin.iml" filepath="$PROJECT_DIR$/zipkin.iml" />
+    </modules>
+  </component>
+</project>
