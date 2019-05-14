@@ -62,6 +62,7 @@ baijunfeng@DESKTOP-3RDVGR2 MINGW64 /e/Program Files/GitHub (master)
 $ git push -u origin master
 fatal: AggregateException encountered.
    ▒▒▒▒һ▒▒▒▒▒▒▒▒▒▒
+   这里需要输入用户名   如果输错  会让再次邮箱登录，再次输入
 Username for 'https://github.com': itxiaobaibai
 Counting objects: 172, done.
 Delta compression using up to 12 threads.
